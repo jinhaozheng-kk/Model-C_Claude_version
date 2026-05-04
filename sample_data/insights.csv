@@ -1,0 +1,13 @@
+participant_id,task_id,insight_text,friction_type,severity,confidence
+tdcn66,task1_account,Screen reader could not parse the CAPTCHA element and was completely blocked,accessibility,blocked,0.95
+asma_osyan,task1_account,Participant was confused by legal terminology in the terms and conditions section,comprehension,medium,0.82
+p003,task1_account,Minor label inconsistency on confirm button,usability,low,0.55
+p004,task1_account,Submit button did not respond on the first click requiring multiple attempts,usability,high,0.88
+p004,task1_account,Error message after failed login attempt was unclear and unhelpful,usability,medium,0.76
+p005,task2_form,Date picker component was difficult to navigate using keyboard,usability,medium,0.91
+p005,task2_form,Help text was not visible without scrolling down significantly,usability,medium,0.80
+p005,task2_form,Upload button label was ambiguous and participant chose the wrong action,usability,medium,0.75
+p006,task2_form,Page took an extremely long time to load causing participant to abandon and restart,usability,severe,0.85
+p007,task2_form,Instruction wording was complex and participant reread it several times,comprehension,medium,0.79
+p007,task2_form,Confirmation message text was ambiguous and participant was unsure if submission succeeded,comprehension,medium,0.73
+p007,task2_form,Progress indicator label used jargon that participant did not understand,comprehension,medium,0.81

@@ -1,0 +1,67 @@
+cohort,task_id,accessibility_mean,accessibility_std,usability_mean,usability_std,participant_count
+blind_lv,AAMI Website,76.5,20.246968291573932,70.89666666666666,22.6589187738515,9
+blind_lv,Discovering insurance providers,80.95,16.26593236047524,75.95,18.28242933043151,10
+blind_lv,Equal Access to Critical  Information – Emergency Response Page,89.6,13.882042757141727,82.575,16.428664143975784,10
+blind_lv,Finding Answers,46.22222222222222,13.54416643594003,43.94111111111111,13.980064774925442,9
+blind_lv,Navigating AAMI’s Insurance Service Offering,78.75,15.103807466993215,73.9,19.80572307861207,10
+blind_lv,Navigating Frequently Asked Questions,74.0,10.691522082680482,62.06,9.868253250815073,10
+blind_lv,Navigating information on financial hardship,78.825,14.42126612564468,70.192,18.64082902305224,10
+blind_lv,Navigation of sub-landing page- Product Information,67.125,20.367032320776524,65.712,22.79317139456952,10
+blind_lv,PDFs and Understanding Terms,67.7075,21.23182701915755,67.33375,22.407325930533137,8
+blind_lv,Starting a Home and Contents Insurance Quote,72.7,23.15071393187596,67.78999999999999,22.986877899261472,10
+blind_lv,Thanks for listening AAMI,81.583,14.878508027054028,76.45,17.314813824519675,10
+deaf,AAMI Website,85.83500000000001,8.251936136447016,80.33500000000001,23.101178541364515,2
+deaf,Discovering insurance providers,88.33500000000001,11.787470042379754,81.33500000000001,24.51539210373761,2
+deaf,Equal Access to Critical  Information – Emergency Response Page,69.0,15.556349186104045,72.0,11.313708498984761,2
+deaf,Finding Answers,50.0,14.142135623730951,44.0,5.656854249492381,2
+deaf,Navigating AAMI’s Insurance Service Offering,72.0,11.313708498984761,74.8,15.273506473629423,2
+deaf,Navigating Frequently Asked Questions,90.0,14.142135623730951,82.0,25.45584412271571,2
+deaf,Navigating information on financial hardship,67.5,17.67766952966369,76.5,17.67766952966369,2
+deaf,Navigation of sub-landing page- Product Information,72.0,11.313708498984761,68.8,6.788225099390853,2
+deaf,PDFs and Understanding Terms,70.0,14.142135623730951,64.0,22.627416997969522,2
+deaf,Starting a Home and Contents Insurance Quote,90.0,14.142135623730951,82.0,25.45584412271571,2
+deaf,Thanks for listening AAMI,59.335,29.22472326644001,51.335,17.91101476745525,2
+esl,AAMI Website,67.5,6.614378277661476,55.91,9.171275810921841,3
+esl,Discovering insurance providers,73.33333333333333,11.547005383792513,58.666666666666664,9.237604307034012,3
+esl,Equal Access to Critical  Information – Emergency Response Page,78.33333333333333,2.88675134594813,63.46666666666667,0.9237604307034025,3
+esl,Finding Answers,56.666666666666664,32.145502536643185,45.333333333333336,25.716402029314544,3
+esl,Navigating AAMI’s Insurance Service Offering,71.66666666666667,10.408329997330666,58.13333333333333,8.812112875657764,3
+esl,Navigating Frequently Asked Questions,73.33333333333333,11.547005383792513,58.666666666666664,9.237604307034012,3
+esl,Navigating information on financial hardship,62.223333333333336,16.77586460762405,49.776666666666664,13.423473221686455,3
+esl,Navigation of sub-landing page- Product Information,57.776666666666664,3.850926295494804,48.0,0.0,3
+esl,PDFs and Understanding Terms,60.10999999999999,8.1655557067477,49.776666666666664,9.194652431350153,3
+esl,Starting a Home and Contents Insurance Quote,71.66666666666667,10.408329997330666,56.89000000000001,8.147165151143065,3
+esl,Thanks for listening AAMI,73.33333333333333,11.547005383792513,58.666666666666664,9.237604307034012,3
+general,AAMI Website,78.0,,75.0,,1
+general,Discovering insurance providers,80.0,,80.0,,1
+general,Equal Access to Critical  Information – Emergency Response Page,60.0,,60.0,,1
+general,Finding Answers,70.0,,70.0,,1
+general,Navigating AAMI’s Insurance Service Offering,80.0,,80.0,,1
+general,Navigating Frequently Asked Questions,80.0,,80.0,,1
+general,Navigating information on financial hardship,80.0,,80.0,,1
+general,Navigation of sub-landing page- Product Information,80.0,,80.0,,1
+general,PDFs and Understanding Terms,60.0,,60.0,,1
+general,Starting a Home and Contents Insurance Quote,80.0,,80.0,,1
+general,Thanks for listening AAMI,80.0,,80.0,,1
+neurodivergent,AAMI Website,78.05666666666667,3.365952069375512,63.53333333333333,16.704889503775036,3
+neurodivergent,Discovering insurance providers,80.0,0.0,64.0,16.0,3
+neurodivergent,Equal Access to Critical  Information – Emergency Response Page,81.66666666666667,20.207259421636905,68.13333333333334,27.915109409302577,3
+neurodivergent,Finding Answers,50.0,10.0,39.333333333333336,9.018499505645787,3
+neurodivergent,Navigating AAMI’s Insurance Service Offering,72.22333333333334,30.246150719278866,59.26,38.295205966282516,3
+neurodivergent,Navigating Frequently Asked Questions,80.0,0.0,64.0,16.0,3
+neurodivergent,Navigating information on financial hardship,69.05666666666667,13.479229701037573,59.70333333333334,17.646076995562876,3
+neurodivergent,Navigation of sub-landing page- Product Information,77.11,6.193246321599034,66.39999999999999,20.505608988762077,3
+neurodivergent,PDFs and Understanding Terms,40.0,20.0,30.666666666666668,15.143755588800731,3
+neurodivergent,Starting a Home and Contents Insurance Quote,80.0,0.0,64.0,16.0,3
+neurodivergent,Thanks for listening AAMI,80.0,0.0,64.0,16.0,3
+older_adult,AAMI Website,80.0,0.0,80.0,0.0,2
+older_adult,Discovering insurance providers,77.0,4.242640687119285,76.0,5.656854249492381,2
+older_adult,Equal Access to Critical  Information – Emergency Response Page,80.0,0.0,78.935,1.506137443927343,2
+older_adult,Finding Answers,65.0,21.213203435596427,64.16499999999999,20.032335111014884,2
+older_adult,Navigating AAMI’s Insurance Service Offering,80.0,0.0,80.0,0.0,2
+older_adult,Navigating Frequently Asked Questions,75.2,6.788225099390853,73.6,9.050966799187801,2
+older_adult,Navigating information on financial hardship,80.0,0.0,78.535,2.071822868876589,2
+older_adult,Navigation of sub-landing page- Product Information,86.0,8.48528137423857,84.66499999999999,6.597306268470493,2
+older_adult,PDFs and Understanding Terms,76.2,5.374011537017757,71.6,11.879393923933991,2
+older_adult,Starting a Home and Contents Insurance Quote,78.5,2.1213203435596424,78.0,2.8284271247461903,2
+older_adult,Thanks for listening AAMI,80.0,0.0,80.0,0.0,2

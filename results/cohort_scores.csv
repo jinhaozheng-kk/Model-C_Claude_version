@@ -1,0 +1,5 @@
+cohort,task_id,accessibility_mean,accessibility_std,usability_mean,usability_std,participant_count
+esl,task1_account,75.0,,75.0,,1
+general,task1_account,77.5,17.67766952966369,57.5,45.96194077712559,2
+general,task2_form,67.5,17.67766952966369,56.5,33.23401871576773,2
+neurodivergent,task2_form,72.0,,72.0,,1

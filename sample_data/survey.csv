@@ -1,0 +1,8 @@
+participant_id,task_id,ease_of_use_score,met_expectations,cohort
+tdcn66,task1_account,100,met,general
+asma_osyan,task1_account,75,exceeded,esl
+p003,task1_account,90,exceeded,general
+p004,task1_account,65,not met,general
+p005,task2_form,80,met,general
+p006,task2_form,55,fell well below,general
+p007,task2_form,72,met,neurodivergent

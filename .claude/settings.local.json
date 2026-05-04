@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"D:\\\\5703\\\\claude 版本\" -Recurse -Force)",
+      "Bash(Select-Object FullName, PSIsContainer)",
+      "Bash(Sort-Object FullName)",
+      "Read(//d/5703/**)",
+      "PowerShell(Get-ChildItem -Path \"D:\\\\5703\\\\claude 版本\" -Recurse | ForEach-Object { $_.FullName })",
+      "PowerShell(Get-ChildItem -Path \"D:\\\\5703\\\\claude 版本\" -Recurse | Select-Object FullName, @{Name=\"Type\";Expression={if\\($_.PSIsContainer\\){\"Directory\"}else{\"File\"}}}, @{Name=\"Size\";Expression={if\\(!$_.PSIsContainer\\){$_.Length}}} | Format-Table -AutoSize)",
+      "PowerShell(Get-ChildItem -Path \"D:\\\\5703\\\\claude 版本\" -Recurse -Force | Where-Object { !$_.PSIsContainer } | Format-Table FullName, Length, LastWriteTime)",
+      "Bash(pip install *)",
+      "Bash(python main.py --insights sample_data/insights.csv --survey sample_data/survey.csv --timing sample_data/timing.csv --project-blocked sample_data/project_blocked.csv --output results)",
+      "Bash(python -c ' *)",
+      "Bash(Get-ChildItem -Path \"d:\\\\5703\\\\Model C_claude _version\" -Force)",
+      "Bash(Select-Object Name, PSIsContainer)",
+      "Bash(Format-Table -AutoSize)",
+      "Bash(python -c \"import docx; doc = docx.Document\\(r'd:\\\\5703\\\\Model C_claude _version\\\\Katie_Model_C3_corrected.docx'\\); [print\\(p.text\\) for p in doc.paragraphs]\")",
+      "Bash(python -c \"import zipfile; z = zipfile.ZipFile\\(r'd:\\\\5703\\\\Model C_claude _version\\\\Katie_Model_C3_corrected.docx'\\); print\\(z.read\\('word/document.xml'\\).decode\\('utf-8'\\)\\)\")",
+      "Bash(python -c \"import zipfile, xml.etree.ElementTree as ET; z = zipfile.ZipFile\\(r'd:\\\\5703\\\\Model C_claude _version\\\\Katie_Model_C3_corrected.docx'\\); xml_content = z.read\\('word/document.xml'\\); root = ET.fromstring\\(xml_content\\); ns = {'w': 'http://schemas.openxmlformats.org/wordprocessingml/2006/main'}; texts = [elem.text for elem in root.findall\\('.//w:t', ns\\) if elem.text]; print\\('\\\\\\\\n'.join\\(texts\\)\\)\")",
+      "Bash(chcp 65001)",
+      "Bash(\"C:/Program Files/Python39/python.exe\" main.py --insights sample_data/insights.csv --survey sample_data/survey.csv --timing sample_data/timing.csv --project-blocked sample_data/project_blocked.csv --output results)",
+      "Bash('C:/Program Files/Python39/python.exe' -c ' *)",
+      "Bash(\"C:/Program Files/Python39/python.exe\" prepare_data.py)",
+      "Bash(\"C:/Program Files/Python39/python.exe\" main.py --insights data/prepared/insights.csv --survey data/prepared/survey.csv --project-blocked data/prepared/project_blocked.csv --output data/results)"
+    ]
+  }
+}
